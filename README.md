@@ -1,4 +1,4 @@
-# ---
+# ---天池 津南智造
 比赛链接：https://tianchi.aliyun.com/competition/entrance/231695/introduction
 
 比赛是典型的回归预测，评价参数是常见的均方差。不同之处在于在复赛阶段要求提供最优的参数，即是预测值最高的一组样本。
